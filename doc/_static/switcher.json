@@ -2,16 +2,16 @@
   {
     "name": "main",
     "version": "main",
-    "url": "https://xinetzone.github.io/xyzstyle/"
+    "url": "https://xinetzone.github.io/visionz/"
   },
   {
     "name": "dev",
     "version": "latest",
-    "url": "https://xyzstyle.readthedocs.io/zh/latest/"
+    "url": "https://visionz.readthedocs.io/zh_CN/latest/"
   },
   {
     "name": "v0.0.2",
     "version": "v0.0.2",
-    "url": "https://xyzstyle.readthedocs.io/zh/v0.0.2/"
+    "url": "https://visionz.readthedocs.io/zh_CN/v0.0.2/"
   }
 ]
