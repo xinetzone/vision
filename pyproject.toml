@@ -6,13 +6,12 @@ requires = ["flit_core >=3.4,<4"]
 authors = [{name = "xinetzone", email = "735613050@qq.com"}]
 dynamic = ["version", "description"]
 license = {file = "LICENSE"}
-name = "xyzstyle"
+name = "vision"
 readme = "README.md"
 requires-python = ">=3.8"
 
 dependencies = [
   "d2py",
-  "pydata_sphinx_theme"
 ]
 
 maintainers = [
@@ -29,33 +28,38 @@ classifiers = [
 ]
 
 [project.urls]
-Home = "https://github.com/xinetzone/xyzstyle"
+Home = "https://github.com/xinetzone/vision"
 
 [project.optional-dependencies]
 doc = [
   "myst-nb",
+  "xyzstyle",
   "sphinxext-rediraffe",
   "sphinx-copybutton",
+  "plotly-geo",
+  "sphinx-plotly-directive",
+  "jupyter-dash",
+  "plotly",
 ]
 
 coverage = [
   "pytest-cov",
   "pytest-regressions",
   "codecov",
-  "xyzstyle[test]",
+  "vision[test]",
 ]
 dev = [
   "pyyaml",
   "pre-commit",
-  "xyzstyle[coverage]",
+  "vision[coverage]",
 ]
 test = [
   "pytest",
-  "xyzstyle[doc]",
+  "vision[doc]",
 ]
 
 [project.entry-points]
-"sphinx.html_themes" = {xyzstyle = "xyzstyle"}
+"sphinx.html_themes" = {vision = "vision"}
 
 [tool.flit.sdist]
 # include = ["docs/"]

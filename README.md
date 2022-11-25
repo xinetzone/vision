@@ -1,4 +1,4 @@
-# xyzstyle
+# vision
 
 [![PyPI][pypi-badge]][pypi-link]
 [![GitHub issues][issue-badge]][issue-link]
@@ -11,38 +11,38 @@
 [![Downloads][download-badge]][download-link]
 [![Documentation Status][status-badge]][status-link]
 [![PyPI - Downloads][install-badge]][install-link]
-![repo size](https://img.shields.io/github/repo-size/xinetzone/xyzstyle.svg)
-[![Downloads Week](https://pepy.tech/badge/xyzstyle/week)](https://pepy.tech/project/xyzstyle)
+![repo size](https://img.shields.io/github/repo-size/xinetzone/vision.svg)
+[![Downloads Week](https://pepy.tech/badge/vision/week)](https://pepy.tech/project/vision)
 
 学无止境！
 
-[pypi-badge]: https://img.shields.io/pypi/v/xyzstyle.svg
-[pypi-link]: https://pypi.org/project/xyzstyle/
-[issue-badge]: https://img.shields.io/github/issues/xinetzone/xyzstyle
-[issue-link]: https://github.com/xinetzone/xyzstyle/issues
-[fork-badge]: https://img.shields.io/github/forks/xinetzone/xyzstyle
-[fork-link]: https://github.com/xinetzone/xyzstyle/network
-[star-badge]: https://img.shields.io/github/stars/xinetzone/xyzstyle
-[star-link]: https://github.com/xinetzone/xyzstyle/stargazers
-[license-badge]: https://img.shields.io/github/license/xinetzone/xyzstyle
-[license-link]: https://github.com/xinetzone/xyzstyle/LICENSE
-[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/xyzstyle
-[contributor-link]: https://github.com/xinetzone/xyzstyle/contributors
-[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/xyzstyle
-[watcher-link]: https://github.com/xinetzone/xyzstyle/watchers
+[pypi-badge]: https://img.shields.io/pypi/v/vision.svg
+[pypi-link]: https://pypi.org/project/vision/
+[issue-badge]: https://img.shields.io/github/issues/xinetzone/vision
+[issue-link]: https://github.com/xinetzone/vision/issues
+[fork-badge]: https://img.shields.io/github/forks/xinetzone/vision
+[fork-link]: https://github.com/xinetzone/vision/network
+[star-badge]: https://img.shields.io/github/stars/xinetzone/vision
+[star-link]: https://github.com/xinetzone/vision/stargazers
+[license-badge]: https://img.shields.io/github/license/xinetzone/vision
+[license-link]: https://github.com/xinetzone/vision/LICENSE
+[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/vision
+[contributor-link]: https://github.com/xinetzone/vision/contributors
+[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/vision
+[watcher-link]: https://github.com/xinetzone/vision/watchers
 [binder-badge]: https://mybinder.org/badge_logo.svg
-[binder-link]: https://mybinder.org/v2/gh/xinetzone/xyzstyle/main
-[install-badge]: https://img.shields.io/pypi/dw/xyzstyle?label=pypi%20installs
-[install-link]: https://pypistats.org/packages/xyzstyle
-[status-badge]: https://readthedocs.org/projects/xyzstyle/badge/?version=latest
-[status-link]: https://xyzstyle.readthedocs.io/zh/latest/?badge=latest
-[download-badge]: https://pepy.tech/badge/xyzstyle
-[download-link]: https://pepy.tech/project/xyzstyle
+[binder-link]: https://mybinder.org/v2/gh/xinetzone/vision/main
+[install-badge]: https://img.shields.io/pypi/dw/vision?label=pypi%20installs
+[install-link]: https://pypistats.org/packages/vision
+[status-badge]: https://readthedocs.org/projects/vision/badge/?version=latest
+[status-link]: https://vision.readthedocs.io/zh/latest/?badge=latest
+[download-badge]: https://pepy.tech/badge/vision
+[download-link]: https://pepy.tech/project/vision
 
 ## 支持 PyPI
 
-需要安装 `xyzstyle` 包：
+需要安装 `vision` 包：
 
 ```shell
-pip install xyzstyle
+pip install vision
 ```

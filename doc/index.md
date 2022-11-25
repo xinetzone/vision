@@ -4,7 +4,8 @@
 ```{toctree}
 :maxdepth: 2
 
-config
+plotly/index
+test
 ```
 
 ## 目录和索引
