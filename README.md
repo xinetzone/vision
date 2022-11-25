@@ -8,9 +8,9 @@
 [![contributors][contributor-badge]][contributor-link]
 [![watcher][watcher-badge]][watcher-link]
 [![Binder][binder-badge]][binder-link]
-[![Downloads][download-badge]][download-link]
 [![Documentation Status][status-badge]][status-link]
 [![PyPI - Downloads][install-badge]][install-link]
+[![Downloads][download-badge]][download-link]
 ![repo size](https://img.shields.io/github/repo-size/xinetzone/vision.svg)
 
 
@@ -34,8 +34,8 @@
 [binder-link]: https://mybinder.org/v2/gh/xinetzone/vision/main
 [install-badge]: https://img.shields.io/pypi/dw/visionz?label=pypi%20installs
 [install-link]: https://pypistats.org/packages/visionz
-[status-badge]: https://readthedocs.org/projects/vision/badge/?version=latest
-[status-link]: https://vision.readthedocs.io/zh/latest/?badge=latest
+[status-badge]: https://readthedocs.org/projects/visionz/badge/?version=latest
+[status-link]: https://visionz.readthedocs.io/zh_CN/latest/?badge=latest
 [download-badge]: https://pepy.tech/badge/visionz
 [download-link]: https://pepy.tech/project/visionz
 
