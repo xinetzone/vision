@@ -5,7 +5,7 @@ from pathlib import Path
 ROOT = Path('__file__').resolve().parents[1]
 print(ROOT)
 sys.path.extend([str(ROOT/'src')])
-import vision
+import visionz
 
 # The full version, including alpha/beta/rc tags
 release = vision.__version__

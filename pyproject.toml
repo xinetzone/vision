@@ -6,7 +6,7 @@ requires = ["flit_core >=3.4,<4"]
 authors = [{name = "xinetzone", email = "735613050@qq.com"}]
 dynamic = ["version", "description"]
 license = {file = "LICENSE"}
-name = "vision"
+name = "visionz"
 readme = "README.md"
 requires-python = ">=3.8"
 
@@ -34,7 +34,7 @@ Home = "https://github.com/xinetzone/vision"
 doc = [
   "myst-nb",
   "xyzstyle",
-  "ipywidgets==7.7.2", # >=8.0.2
+  "ipywidgets", # ==7.7.2, >=8.0.2
   "sphinxext-rediraffe",
   "sphinx-copybutton",
   "plotly-geo",
@@ -60,7 +60,7 @@ test = [
 ]
 
 [project.entry-points]
-"sphinx.html_themes" = {vision = "vision"}
+"sphinx.html_themes" = {vision = "visionz"}
 
 [tool.flit.sdist]
 # include = ["docs/"]

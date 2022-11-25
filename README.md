@@ -12,12 +12,12 @@
 [![Documentation Status][status-badge]][status-link]
 [![PyPI - Downloads][install-badge]][install-link]
 ![repo size](https://img.shields.io/github/repo-size/xinetzone/vision.svg)
-[![Downloads Week](https://pepy.tech/badge/vision/week)](https://pepy.tech/project/vision)
+
 
 学无止境！
 
-[pypi-badge]: https://img.shields.io/pypi/v/vision.svg
-[pypi-link]: https://pypi.org/project/vision/
+[pypi-badge]: https://img.shields.io/pypi/v/visionz.svg
+[pypi-link]: https://pypi.org/project/visionz/
 [issue-badge]: https://img.shields.io/github/issues/xinetzone/vision
 [issue-link]: https://github.com/xinetzone/vision/issues
 [fork-badge]: https://img.shields.io/github/forks/xinetzone/vision
@@ -32,12 +32,12 @@
 [watcher-link]: https://github.com/xinetzone/vision/watchers
 [binder-badge]: https://mybinder.org/badge_logo.svg
 [binder-link]: https://mybinder.org/v2/gh/xinetzone/vision/main
-[install-badge]: https://img.shields.io/pypi/dw/vision?label=pypi%20installs
-[install-link]: https://pypistats.org/packages/vision
+[install-badge]: https://img.shields.io/pypi/dw/visionz?label=pypi%20installs
+[install-link]: https://pypistats.org/packages/visionz
 [status-badge]: https://readthedocs.org/projects/vision/badge/?version=latest
 [status-link]: https://vision.readthedocs.io/zh/latest/?badge=latest
-[download-badge]: https://pepy.tech/badge/vision
-[download-link]: https://pepy.tech/project/vision
+[download-badge]: https://pepy.tech/badge/visionz
+[download-link]: https://pepy.tech/project/visionz
 
 ## 支持 PyPI
 
