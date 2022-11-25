@@ -8,7 +8,7 @@ sys.path.extend([str(ROOT/'src')])
 import visionz
 
 # The full version, including alpha/beta/rc tags
-release = vision.__version__
+release = visionz.__version__
 
 
 def setup(app):
