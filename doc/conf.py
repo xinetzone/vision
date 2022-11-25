@@ -100,7 +100,7 @@ intersphinx_mapping = {
 # 避免将 jupter 执行报错的信息输出到 cmd
 nb_merge_streams = True
 nb_execution_allow_errors = True
-nb_execution_mode = "cache" #'off'
+nb_execution_mode = "cache" # "off"
 
 # nb_mime_priority_overrides = [
 #     ('html', 'text/plain', 0),  # 最高级别

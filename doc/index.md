@@ -3,6 +3,7 @@
 
 ```{toctree}
 :maxdepth: 2
+:hidden:
 
 plotly/index
 test
