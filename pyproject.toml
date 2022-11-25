@@ -34,6 +34,7 @@ Home = "https://github.com/xinetzone/vision"
 doc = [
   "myst-nb",
   "xyzstyle",
+  "ipywidgets",
   "sphinxext-rediraffe",
   "sphinx-copybutton",
   "plotly-geo",
