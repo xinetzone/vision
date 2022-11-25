@@ -6,6 +6,7 @@
 :hidden:
 
 plotly/index
+dash/index
 test
 ```
 
