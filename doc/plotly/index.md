@@ -2,6 +2,6 @@
 
 ```{toctree}
 
-start
+intro
 mapbox/index
 ```

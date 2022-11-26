@@ -41,6 +41,14 @@ doc = [
   "sphinx-plotly-directive",
   "jupyter-dash",
   "plotly",
+  "sklearn-xarray",
+  "pip-tools",
+  "rtree",
+  "ipykernel",
+  "osmnx",
+  "PyKrige",
+  "census",
+  "us"
 ]
 
 coverage = [
