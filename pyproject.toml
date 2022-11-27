@@ -48,7 +48,8 @@ doc = [
   "osmnx",
   "PyKrige",
   "census",
-  "us"
+  "us",
+  "rasterio"
 ]
 
 coverage = [

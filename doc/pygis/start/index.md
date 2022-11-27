@@ -3,5 +3,8 @@
 ```{toctree}
 
 spatial-data
+storage-formats
+spatial-vector-data
+spatial-raster-data
 test
 ```

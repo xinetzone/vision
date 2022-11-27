@@ -168,3 +168,16 @@ html_sidebars = {
     ],  # This ensures we test for custom sidebars
     "demo/no-sidebar": [],  # Test what page looks like with no sidebar items
 }
+
+myst_enable_extensions = [
+    "colon_fence",
+    "amsmath",
+    "deflist",
+    "dollarmath",
+    "html_admonition",
+    "html_image",
+    "replacements",
+    "smartquotes",
+    "substitution",
+    "tasklist",
+]

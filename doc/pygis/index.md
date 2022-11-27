@@ -4,4 +4,6 @@
 
 ```{toctree}
 start/index
+crs/index
+vector-operations/index
 ```
