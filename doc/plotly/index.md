@@ -3,5 +3,5 @@
 ```{toctree}
 
 intro
-mapbox/index
+maps/index
 ```

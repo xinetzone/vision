@@ -5,4 +5,7 @@
 attributes
 proximity-analysis
 merge-dissolve
+extraction
+overlay
+summarize
 ```
