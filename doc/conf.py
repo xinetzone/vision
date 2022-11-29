@@ -98,10 +98,12 @@ intersphinx_mapping = {
 # MyST-NB 设置
 # 如果你希望stderr和stdout中的每个输出都被合并成一个流，请使用以下配置。
 # 避免将 jupter 执行报错的信息输出到 cmd
+# https://myst-nb.readthedocs.io/en/latest/computation/execute.html
 nb_merge_streams = True
 nb_execution_allow_errors = True
 nb_execution_mode = "cache" # "off"
-
+nb_execution_excludepatterns = ["plotly/graph-objects.ipynb", 
+                                "plotly/horizontal-vertical-shapes"]
 # nb_mime_priority_overrides = [
 #     ('html', 'text/plain', 0),  # 最高级别
 #     ('latex', 'image/jpeg', None),  # 禁用
