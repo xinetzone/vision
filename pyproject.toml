@@ -12,6 +12,8 @@ requires-python = ">=3.8"
 
 dependencies = [
   "d2py",
+  "streamlit",
+  "plotly"
 ]
 
 maintainers = [
@@ -40,7 +42,6 @@ doc = [
   "plotly-geo",
   "sphinx-plotly-directive",
   "jupyter-dash",
-  "plotly",
   "sklearn-xarray",
   "pip-tools",
   "rtree",
