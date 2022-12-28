@@ -5,9 +5,10 @@
 :maxdepth: 2
 :hidden:
 
-pygis/index
 plotly/index
+streamlit/index
 dash/index
+pygis/index
 test
 ```
 

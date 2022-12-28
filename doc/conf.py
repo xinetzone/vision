@@ -101,9 +101,9 @@ intersphinx_mapping = {
 # https://myst-nb.readthedocs.io/en/latest/computation/execute.html
 nb_merge_streams = True
 nb_execution_allow_errors = True
-nb_execution_mode = "cache" # "off"
-nb_execution_excludepatterns = ["plotly/graph-objects.ipynb", 
-                                "plotly/horizontal-vertical-shapes"]
+nb_execution_mode = "auto" # "cache" # "off" "force" "inline"
+# nb_execution_excludepatterns = ["plotly/graph-objects.ipynb", 
+#                                 "plotly/horizontal-vertical-shapes"]
 # nb_mime_priority_overrides = [
 #     ('html', 'text/plain', 0),  # 最高级别
 #     ('latex', 'image/jpeg', None),  # 禁用
