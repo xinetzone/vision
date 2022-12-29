@@ -4,7 +4,6 @@
 - [plotly.streamlit.app](https://plotly.streamlit.app/)
 
 
-
 ```{toctree}
 deploy/index
 ```
