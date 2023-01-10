@@ -8,6 +8,7 @@
 plotly/index
 streamlit/index
 dash/index
+fastapi/index
 pygis/index
 test
 ```
