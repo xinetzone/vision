@@ -142,3 +142,6 @@ node_modules/
 output/
 *.mo
 _build/
+
+# PDM
+.pdm.toml

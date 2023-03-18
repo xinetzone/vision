@@ -6,6 +6,8 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://xinetzone.streamlit.app)
 
+[streamlit-jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) 使 streamlit 可以在 Jupyter Notebook 中运行。
+
 
 ```{toctree}
 :glob:
