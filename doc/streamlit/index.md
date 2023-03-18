@@ -6,4 +6,5 @@
 
 ```{toctree}
 deploy/index
+ai-stream<https://xinetzone.streamlit.app>
 ```

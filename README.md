@@ -41,8 +41,8 @@
 
 ## 支持 PyPI
 
-需要安装 `vision` 包：
+需要安装 `visionz` 包：
 
 ```shell
-pip install vision
+pip install visionz
 ```
