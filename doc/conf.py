@@ -2,7 +2,7 @@ import sys
 import os
 from pathlib import Path
 
-ROOT = Path('__file__').resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[1]
 print(ROOT)
 sys.path.extend([str(ROOT/'src')])
 import visionz
@@ -102,6 +102,7 @@ intersphinx_mapping = {
 nb_merge_streams = True
 nb_execution_allow_errors = True
 nb_execution_mode = "auto" # "cache" # "off" "force" "inline"
+html_js_files = ["https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"]
 # nb_execution_excludepatterns = ["plotly/graph-objects.ipynb", 
 #                                 "plotly/horizontal-vertical-shapes"]
 # nb_mime_priority_overrides = [
