@@ -25,4 +25,6 @@ jobs:
     
     - name: Run Hypercorn
       run: |
+        apt-get install nohup
+        cd hub
         nohub hypercorn server:app --bind 0.0.0.0:8000 --workers 4 --log-level info
