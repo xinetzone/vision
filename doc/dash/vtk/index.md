@@ -2,5 +2,7 @@
 
 ```{toctree}
 intro
-geometry
+render
+structure
+pcd
 ```
