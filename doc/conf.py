@@ -42,6 +42,7 @@ extensions = [
     'sphinx.ext.viewcode',
     # 'sphinx.ext.autosectionlabel',
     'sphinx.ext.napoleon',
+    "sphinx_design"
 ]
 
 # application/vnd.plotly.v1+json and application/vnd.bokehjs_load.v0+json

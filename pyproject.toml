@@ -12,8 +12,12 @@ requires-python = ">=3.10"
 
 dependencies = [
   "d2py",
-  "streamlit",
-  "plotly"
+  "plotly",
+  "pyarrow",
+  "pandas",
+  "fastapi",
+  "dash",
+  "gradio",
 ]
 
 maintainers = [
@@ -40,10 +44,9 @@ doc = [
   "sphinxext-rediraffe",
   "sphinx-copybutton",
   "plotly-geo",
+  "streamlit",
   "sphinx-plotly-directive",
-  "dash",
   "dash-vtk",
-  "fastapi",
   "hypercorn",
   # 'strawberry-graphql[debug-server]',
   "sklearn-xarray",
@@ -57,6 +60,7 @@ doc = [
   "rasterio",
   "kaleido",
   # "geoplot"
+  "sphinx-design"
 ]
 
 coverage = [
@@ -79,5 +83,5 @@ test = [
 "sphinx.html_themes" = {vision = "visionz"}
 
 [tool.flit.sdist]
-# include = ["docs/"]
-exclude = ['docs', '.git', '.github']
+# include = ["doc/"]
+exclude = ['doc', '.git', '.github']

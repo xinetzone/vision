@@ -5,10 +5,11 @@
 :maxdepth: 2
 :hidden:
 
+gradio/index
+fastapi/index
 plotly/index
 streamlit/index
 dash/index
-fastapi/index
 pygis/index
 test
 ```

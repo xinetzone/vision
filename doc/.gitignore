@@ -1,3 +1,4 @@
 *.csv
 *.tif
 .streamlit/secrets.toml
+flagged/
