@@ -145,7 +145,7 @@ elif "rc" in version:
 
 autosummary_generate = True
 html_theme_options = {
-    "footer_items": ["copyright", "last-updated", "sphinx-version", ],
+    "footer_end": ["copyright", "last-updated", "sphinx-version", ],
     "github_url": "https://github.com/xinetzone/vision",
     "use_edit_page_button": True,
     "navbar_end": ["theme-switcher", "version-switcher", "navbar-icon-links"],
@@ -153,6 +153,7 @@ html_theme_options = {
         "json_url": json_url,
         "version_match": switcher_version
     },
+    "navigation_with_keys": True
 
 }
 
