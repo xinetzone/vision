@@ -58,3 +58,12 @@ app = Dash(show_undo_redo=True)
 
 问：我还有其他问题！我在哪里可以问他们？
 答：[Dash 社区论坛](https://community.plotly.com/c/dash)上挤满了讨论 Dash 主题，互相帮助的人以及共享Dash创作的人。跳过并加入讨论。
+
+## dash.exceptions.DependencyException: Error loading dependency. "plotly" is not a registered library.
+
+```python
+app = Dash(
+    __name__,
+    eager_loading=True, # 修复 dash.exceptions.DependencyException: Error loading dependency. "plotly" is not a registered library.
+)
+```
