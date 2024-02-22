@@ -2,3 +2,4 @@
 *.tif
 .streamlit/secrets.toml
 flagged/
+cache/

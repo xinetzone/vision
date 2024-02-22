@@ -2,6 +2,7 @@
 
 ```{toctree}
 callback
+background-callbacks
 sharing-data-between-callbacks
 advanced-callbacks
 clientside-callbacks
