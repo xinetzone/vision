@@ -1,7 +1,7 @@
 # Dash 回调指南
 
 ```{toctree}
-callback
+base
 background-callbacks
 sharing-data-between-callbacks
 advanced-callbacks
