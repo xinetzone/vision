@@ -2,6 +2,22 @@ from nicegui import APIRouter, ui
 
 router = APIRouter(prefix='/test')
 
+class ToggleButton(ui.button):
+
+    def __init__(self, *args, **kwargs) -> None:
+        super().__init__(*args, **kwargs)
+        self._state = False
+        self.on('click', self.toggle)
+
+    def toggle(self) -> None:
+        """Toggle the button state."""
+        self._state = not self._state
+        self.update()
+
+    def update(self) -> None:
+        self.props(f'color={"green" if self._state else "red"}')
+        super().update()
+
 @router.page('/')
 def page():
     ui.label('This is content on /test')
@@ -17,6 +33,7 @@ def dark_page():
 @router.page('/other_page')
 def other_page():
     ui.label('Welcome to the other side')
+    ToggleButton('Toggle me')
 
 @router.page('/page_layout')
 def page_layout():
