@@ -20,6 +20,9 @@ dependencies = [
   "gradio",
   "diskcache",
   "multiprocess",
+  "strawberry-graphql[fastapi]",
+  "python-multipart",
+  "nicegui",
 ]
 
 

@@ -6,4 +6,5 @@ Request
 sub-applications
 dash
 GraphQL
+NiceGUI
 ```
