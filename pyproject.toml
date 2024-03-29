@@ -12,17 +12,6 @@ requires-python = ">=3.10"
 
 dependencies = [
   "d2py",
-  "plotly",
-  "pyarrow",
-  "pandas",
-  "fastapi",
-  "dash",
-  "gradio",
-  "diskcache",
-  "multiprocess",
-  "strawberry-graphql[fastapi]",
-  "python-multipart",
-  "nicegui",
 ]
 
 
@@ -66,7 +55,19 @@ doc = [
   "rasterio",
   "kaleido",
   # "geoplot"
-  "sphinx-design"
+  "sphinx-design",
+  "plotly",
+  "pyarrow",
+  "pandas",
+  "fastapi",
+  "dash",
+  "gradio",
+  "diskcache",
+  "multiprocess",
+  "strawberry-graphql[fastapi]",
+  "python-multipart",
+  "nicegui",
+  "invoke",
 ]
 
 coverage = [
