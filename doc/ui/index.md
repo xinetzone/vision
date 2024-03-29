@@ -1,8 +1,6 @@
-# 后端
+# UI
 
 ```{toctree}
-fastapi/index
-dash/index
-gradio/index
-streamlit/index
+plotly/index
+pygis/index
 ```

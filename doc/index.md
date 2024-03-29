@@ -2,14 +2,12 @@
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 :hidden:
 
-frontend/index
+core/index
 ui/index
-plotly/index
-pygis/index
-test
+ext/index
 ```
 
 ## 目录和索引
